@@ -8,3 +8,4 @@ dependencies:
   - r-topicmodels
   - r-wordcloud
   - r-RColorBrewer
+  - r-stringr
