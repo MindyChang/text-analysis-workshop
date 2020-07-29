@@ -9,3 +9,4 @@ dependencies:
   - r-wordcloud
   - r-RColorBrewer
   - r-stringr
+  - r-repr
