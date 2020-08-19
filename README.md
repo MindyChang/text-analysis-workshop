@@ -3,10 +3,11 @@
 Learnings from Bay-SICSS 2020
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MindyChang/text-analysis-workshop/master?filepath=index.ipynb)
-
-Direct link:
+Part 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MindyChang/text-analysis-workshop/master?filepath=index.ipynb)
 https://mybinder.org/v2/gh/MindyChang/text-analysis-workshop/master?filepath=index.ipynb
+
+Part 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MindyChang/text-analysis-workshop/master?filepath=index2.ipynb)
+https://mybinder.org/v2/gh/MindyChang/text-analysis-workshop/master?filepath=index2.ipynb
 
 
 # Installation on Mac
