@@ -88,7 +88,7 @@ IRkernel::installspec(user = FALSE)
 
 ### Run and code interactively
 
-To run Jupyter notebook interactively, go to the directory where you've downloaded the notebook.
+To run Jupyter notebook interactively, in the terminal, go to the directory where you've downloaded the notebook.
 
 ```
 jupyter notebook
