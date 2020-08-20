@@ -10,3 +10,5 @@ dependencies:
   - r-RColorBrewer
   - r-stringr
   - r-repr
+  - r-tm
+  - r-stm
