@@ -4,3 +4,5 @@
 .DS_Store
 
 *.history
+
+.ipynb_checkpoints/index2-checkpoint.ipynb
