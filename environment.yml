@@ -12,3 +12,4 @@ dependencies:
   - r-repr
   - r-tm
   - r-stm
+  - r-quanteda
